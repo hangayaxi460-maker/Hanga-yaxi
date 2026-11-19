@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hanga-yaxi-hangaw.pages.dev/sitemap.xml

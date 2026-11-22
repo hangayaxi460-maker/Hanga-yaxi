@@ -1,11 +1,7 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hanga-yaxi-hangaw.pages.dev/</loc>
-    <image:image><image:loc>https://hanga-yaxi-hangaw.pages.dev/hanga-yaxi-profile.jpg</image:loc><image:title>Hanga Yaxi – هەنگاو یاخی</image:title></image:image>
-    <image:image><image:loc>https://hanga-yaxi-hangaw.pages.dev/hanga-yaxi-photo-02.jpg</image:loc><image:title>Hanga Yaxi photo</image:title></image:image>
-    <image:image><image:loc>https://hanga-yaxi-hangaw.pages.dev/hanga-yaxi-photo-03.jpg</image:loc><image:title>Hanga Yaxi photo</image:title></image:image>
-    <image:image><image:loc>https://hanga-yaxi-hangaw.pages.dev/hanga-yaxi-photo-04.jpg</image:loc><image:title>Hanga Yaxi photo</image:title></image:image>
-    <image:image><image:loc>https://hanga-yaxi-hangaw.pages.dev/hanga-yaxi-photo-05.jpg</image:loc><image:title>Hanga Yaxi photo</image:title></image:image>
+    <loc>https://hangayaxi460-maker.github.io/Hanga-yaxi/</loc>
   </url>
 </urlset>
